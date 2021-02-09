@@ -19,7 +19,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		alert("nahi yaar phele hi har gaye ")
 	}
 
-	alert ("DUSRA PRASHAN -100 RUPPES KE LIYE")
+	alert ("DUSRA PRASHAN 1000 RUPPES KE LIYE")
 	alert ("Which of these must a player hold during a Raid in a game of Kabaddi?")
 	const Q2 = prompt(" \n 1- LAUGHTER\n 2- BALL\n 3-BREATH \n 4- sweat")
 	if (Q2 === '1'){
@@ -38,7 +38,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		
 		alert("nahi yaar phele hi har gaye ,WRONG")
 	}
-	alert ("THIRD PRASHAN 500 RUPPES KE LIYE")
+	alert ("THIRD PRASHAN 5000 RUPPES KE LIYE")
 	alert ("Who designed the Eiffel Tower?")
 	const Q3 = prompt(" \n 1- LEONADO DA VINCI\n 2-  Gustave Eiffel,\n 3-QUEEN VICTORIA \n 4- TOM AND JERRY")
 	if (Q3 === '1'){
@@ -57,7 +57,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		
 		alert("YE TO BILKUL HI NAHI YE MAT SELECT KARNA ,WRONG ")
 	}
-	alert ("FOURTH PRASHAN -500 RUPPES KE LIYE")
+	alert ("FOURTH PRASHAN 10000 RUPPES KE LIYE")
 	alert ("the battle of Austerlitz also known as?")
 	const Q4 = prompt(" \n 1- WORLD WAR 1\n 2-I DONT NOW I DIDNT GOT TO SCHOOL ON TIME   \n 3-The Battle of the five Emperors\n 4- The Battle of the Three Emperors")
 	if (Q4 === '1'){
@@ -76,7 +76,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		
 		alert("WOW IMPOSSIBLE ,CORRECT")
 	}
-	alert ("FIFTH PRASHAN 1000 RUPPES KE LIYE")
+	alert ("FIFTH PRASHAN 15000 RUPPES KE LIYE")
 	alert ("What is Prince William's full name??")
 	const Q5 = prompt(" \n 1- william wordsworth\n 2-William Arthur Philip Louis Windsor \n 3-william shakespeare\n 4-William Butler Yeats")
  
@@ -96,7 +96,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		
 		alert("wrong ")
 	}
-		alert ("sixth PRASHAN -1000 RUPPES KE LIYE")
+		alert ("sixth PRASHAN 90000RUPPES KE LIYE")
 	alert ("In the abbreviation PNR, used while issuing rail or air ticket, what does R stand for??")
 	const Q6 = prompt(" \n 1- Reservation\n 2-  Registration\n 3- Record\n 4- Recognition")
  
@@ -117,7 +117,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		
 		alert("wrong ")
 	}
-		alert ("SEVENTH PRASHAN 2500 RUPPES KE LIYE")
+		alert ("SEVENTH PRASHAN 2500000 RUPPES KE LIYE")
 	alert ("Which is the only one of these which comes in different sizes called mini, micro and nano??")
 	const Q7 = prompt(" \n 1- cars\n 2-  truck\n 3- cards\n 4- sim caards")
  
@@ -138,7 +138,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		
 		alert("correct")
 	}
-			alert ("eighth PRASHAN -2500 RUPPES KE LIYE")
+			alert ("eighth PRASHAN 777700 RUPPES KE LIYE")
 	alert ("Which global retailer bought 77% of Flipkart for over 16 billion US Dollar in 2018?")
 	const Q8 = prompt(" \n 1- walmart\n 2-  amazon\n 3- teaco\n 4- flipcart")
  
@@ -160,7 +160,7 @@ alert("you are playing KON BANEGA ROADPATI")
 		alert("no no no wrong")
 	}
 		
-			alert ("ninth PRASHAN 10000 RUPPES KE LIYE")
+			alert ("ninth PRASHAN 1000000 RUPPES KE LIYE")
 	alert ("In February 2017, ISRO created a world record by launching how many satellites through a single rocket??")
 	const  Q9 = prompt(" \n 1- 82\n 2- 69\n 3- 104\n 4- 55")
  
@@ -203,4 +203,4 @@ alert("you are playing KON BANEGA ROADPATI")
 		alert("correct")
 		
 	}
-	alert ("PAISE AAP PAYTM KARENGE YA FIR CARD SE ?")
+	alert ("PAISE AAP PAYTM KARENGE ?")
